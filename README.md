@@ -46,4 +46,3 @@ Each directory in this repository is completely self-contained and acts as an in
 
 * **Mohammad Alyami** - Cybersecurity & Networking Specialist
 * **LinkedIn:** [[Mohammad Alyami](https://www.linkedin.com/in/mohammad-alyami-b4217327b/)]
-* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammad-alyami-b4217327b/)]
