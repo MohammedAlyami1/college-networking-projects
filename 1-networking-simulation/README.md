@@ -9,8 +9,8 @@ This project involves the end-to-end design, implementation, and performance ana
 - Analyze Layer-3 packet fragmentation behavior across mismatched MTU boundaries.
 
 ## Contents
-- `project-report.pdf` - Full project report including routing tables, configurations, and fragmentation math logs.
-- ['diagrams/'](./diagrams//) - Network topology diagrams and structural visualizations.
+- [project-report/](./project-report/) - Full project report including routing tables, configurations, and fragmentation math logs.
+- [diagrams/](./diagrams/) - Network topology diagrams and structural visualizations.
 
 ## Technologies Used
 - Cisco IOS Routing & Switching
