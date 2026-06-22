@@ -44,12 +44,5 @@ Each directory in this repository is completely self-contained and acts as an in
 
 ## 👤 Author
 
-* **Mohammed Alyami** - Mechatronics and Embedded Systems Engineer
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(Optional: Replace with your link)*
-* **GitHub:** [@your-username](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This repository is configured purely for portfolio presentation and personal educational display. All rights reserved. No reuse or replication of text/reports for academic submissions is permitted.
+* **Mohammad Alyami** - Cybersecurity & Networking Specialist
+* **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammad-alyami-b4217327b/))
