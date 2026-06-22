@@ -19,8 +19,3 @@ This project involves the end-to-end design, implementation, and performance ana
 
 ## Results/Findings
 Successfully established a fault-tolerant diamond routing topology with predictable path costs. Fragmentation stress-testing validated proper IPv4 header adjustments—specifically tracking 'More Fragments' (MF) flags and offset calculations—across 1400, 700, and 300-byte MTU limits.
-
-## Course Information
-- Course: COS372
-- University: [Your University]
-- Date: [Month, Year]
