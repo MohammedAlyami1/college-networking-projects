@@ -20,8 +20,3 @@ The architectural design and deployment planning of a highly available, secure, 
 
 ## Results/Findings
 Designed a highly resilient, Multi-Availability Zone architecture. The implementation ensures strict zero-trust boundaries where backend databases are completely shielded from public access, relying on precise Security Group rules and managed NAT gateways for secure operational maintenance.
-
-## Course Information
-- Course: [Course Name]
-- University: [Your University]
-- Date: [Month, Year]
