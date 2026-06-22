@@ -20,8 +20,3 @@ A comprehensive deep-packet forensic audit and behavioral analysis of fundamenta
 
 ## Results/Findings
 Mapped the exact bitwise structures of IP option headers (Record Route/Timestamp) and validated VoIP SIP/RTP signaling flows. The security audit successfully demonstrated the vulnerabilities of plaintext Telnet sessions compared to the multi-step cryptographic handshakes of modern SSH implementation.
-
-## Course Information
-- Course: COS370 & COS372
-- University: [Your University]
-- Date: [Month, Year]
