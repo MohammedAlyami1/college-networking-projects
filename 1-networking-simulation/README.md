@@ -10,7 +10,7 @@ This project involves the end-to-end design, implementation, and performance ana
 
 ## Contents
 - `project-report.pdf` - Full project report including routing tables, configurations, and fragmentation math logs.
-- `diagrams/` - Network topology diagrams and structural visualizations.
+- `./diagrams/` - Network topology diagrams and structural visualizations.
 
 ## Technologies Used
 - Cisco IOS Routing & Switching
