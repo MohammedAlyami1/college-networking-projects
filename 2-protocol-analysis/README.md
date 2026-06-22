@@ -9,8 +9,8 @@ A comprehensive deep-packet forensic audit and behavioral analysis of fundamenta
 - Evaluate the security posture of application-layer data transfers by comparing plaintext protocols with cryptographic channels.
 
 ## Contents
-- `analysis-report.pdf` - Full project report containing hex-dump decodes and sequence diagrams.
-- `findings/` - Raw packet capture logs, terminal trace transcripts, and protocol flow charts.
+- [analysis-report.pdf](./analysis-report/) - Full project report containing hex-dump decodes and sequence diagrams.
+- [findings/](./findings/) - Raw packet capture logs, terminal trace transcripts, and protocol flow charts.
 
 ## Technologies Used
 - Wireshark / Packet Capture (pcap) Analysis
